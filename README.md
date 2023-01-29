@@ -15,16 +15,17 @@ Resultados:
 
     1. Texto Original antes da criptografia 
     
-    ![antes](https://user-images.githubusercontent.com/103138801/215297120-cdd9f9e8-3c30-45ab-8d4f-cd219daf7e13.png)
+   ![antes](https://user-images.githubusercontent.com/103138801/215297297-73458627-50b3-4566-a72d-6013fafccefa.png)
 
   
     2. Texto após a encriptação
     
-    ![criptografado](https://user-images.githubusercontent.com/103138801/215297146-3e51f4b5-fd20-43c3-9ac2-6dc656160751.png)
+    ![criptografado](https://user-images.githubusercontent.com/103138801/215297306-08553790-c08f-4f6a-9206-6a0271a9dc8e.png)
 
   
     3.Texto após a descriptação
     
-    ![descriptografado](https://user-images.githubusercontent.com/103138801/215297155-3426a41e-b11a-4575-b7d3-094bbca0c912.png)
+    ![descriptografado](https://user-images.githubusercontent.com/103138801/215297313-7236aa74-83ca-47d6-a0e8-ab478f44ca07.png)
+
 
 Conforme observado o texto volta ao formato original.
