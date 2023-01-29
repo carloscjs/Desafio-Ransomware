@@ -28,4 +28,4 @@ Resultados:
    ![descriptografado](https://user-images.githubusercontent.com/103138801/215297313-7236aa74-83ca-47d6-a0e8-ab478f44ca07.png)
 
 
-Conforme observado o texto volta ao formato original.
+Conforme observado a imagem retorna ao seu estado inicial.
